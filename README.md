@@ -12,3 +12,10 @@ Place GUI<br>
 
 Device GUI <br>
 <kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/device/device_list.png" width="250"></kbd><kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/device/device_filter.png" width="250"></kbd><kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/device/device_control.png" width="250"></kbd><kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/device/device_reading.png" width="250"></kbd><kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/device/device_status.png" width="250"></kbd><kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/device/device_schedule.png" width="250"></kbd>
+
+Plant GUI <br>
+<kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/plant/plant_list.png" width="250"></kbd>
+<kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/plant/plant_detail.png" width="250"></kbd>
+<kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/plant/plant_add_transaction.png" width="250"></kbd>
+<kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/plant/plant_edit_trransaction.png" width="250"></kbd>
+<kbd><img src="https://github.com/Syahiddan/Garduino-Enviroment-System-GES/blob/master/GUI%20PSM/plant/plant_delete.png" width="250"></kbd>
